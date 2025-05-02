@@ -2,6 +2,8 @@
 
 A Python-based logistics optimization tool that combines **load planning** (packing items into vehicles) and **route planning** (solving the vehicle routing problem) to streamline delivery operations.
 
+![Project Image](route_and_load_planner.png)
+
 Built with:
 - 🔧 Flask (backend logic)
 - 📦 Google OR-Tools (optimization engine)
